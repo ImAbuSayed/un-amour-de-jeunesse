@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un Amour De Jeunesse
+
+This log tracks the cryptographic history and versioning for the song **Un Amour De Jeunesse** (un-amour-de-jeunesse).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T18:38:15.855190 | `v1` | `407c02d5565257cbba61b190043564c754d787829c1a99aa8be9087e3547a080` | `71d0274dbff5f50fb33bec7a015e001e7851e0a6d50393ffc36f766ce1e3b77f` | `2026-06-26_un-amour-de-jeunesse-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

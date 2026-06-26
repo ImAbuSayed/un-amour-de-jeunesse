@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-amour-de-jeunesse/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Un Amour De Jeunesse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amour-de-jeunesse/) |
+| **Get License** | [Get License For Un Amour De Jeunesse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amour-de-jeunesse/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> C'est un amour de jeunesse, une fièvre dans le noir,
+> Sous les néons de Paris, je n'vis que pour te voir.
+> On roule sans limite, baby you're the one,
+> Laisse-moi te séduire until the rising sun.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
